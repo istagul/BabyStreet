@@ -1,0 +1,134 @@
+{
+    "header":{
+     "0":"Girls Clothing",
+     "1":"Boys Clothing",
+     "2":"Toys & Accessories",
+     "3":"Customer Care: shop@baby.street"
+    },
+    "nav":{
+        "0":"Home",
+         "1":"Shop",
+        "2":"Blog",
+        "3":"Pages",
+        "4":"About us",
+        "5":"Contacts"
+    },
+    "home1":{
+        "0":"Shine Bright",
+        "1":"Like a Superstar",
+        "2":"Shop Girls",
+        "3":"Shop Boys"
+    },
+    "home2":{
+        "0":"Girls Clothing",
+        "1":"Increddible Quality",
+        "2":"Girls Clothing",
+        "3":"World's Best Brands",
+        "4":"Toys & Games",
+        "5":"For all ages"
+    },
+    "home3":{
+        "0":"You'll 💗 This",
+        "1":"We’ve picked few pieces we’re pretty sure you’ll love. Check back often and enjoy."
+    },
+    "home4":{
+        "0":"BACK TO SCHOOL",
+        "1":"Girls Collection",
+        "2":"We celebrate childhood by supporting babies, children, and families with thoughtful designs, quality materials and construction, and convenient shopping options.",
+        "3":"Shop"
+    },
+    "home5":{
+        "0":"From The Blog",
+        "1":"We celebrate childhood by supporting babies, children, and families with thoughtful designs and quality materials.",
+        "2":"Subscribe to our Newsletter",
+        "3":"Be the first to know about new products, sales and promotions.",
+        "4":"Subscribe"
+        
+    },
+"footer": {
+    "0":"Information",
+    "1":"About Us",
+    "2":"FAQ",
+    "3":"BabyStreet Shop",
+    "4":"Blog",
+    "5":" Extras",
+    "6":"My account ",
+    "7":"Wishlist",
+    "8":"Order Tracking",
+    "9":"Terms & Conditions",
+    "10":"Privacy Policy",
+    "11":" Have a Question?",
+    "12":"164 7th Avenue, Seattle, WA 9801",
+    "13":"Babystreet theme by theAlThemist | © 2019 All rights reserved!"
+
+},
+"about":{
+    "0":"Home",
+    "1":"About Us",
+    "2":"Story & Mission",
+    "3":"We believe that childhood is a celebration, and the colorful prints and cute characters we design are inspired by the joy and love children bring into our lives. We celebrate childhood by supporting babies, children, and families with thoughtful designs, quality materials and construction, and convenient shopping options.",
+    "4":"Cute Models",
+    "5":" From our in-house Design and Creative studios to our monthly birthday cupcake breaks. We love to build moments.",
+    "6":"Awesome Products",
+    "7":"Best Quality",
+    "8":"Our Philosophy",
+    "9":"We believe that childhood is a celebration, and the colorful prints and cute characters we design are inspired by the joy and love children bring into our lives. We celebrate childhood by supporting children and families with thoughtful designs, quality materials and convenient shopping options. We continue this heritage in every little detail to make dressing easier for mom and life more comfortable for babies, and as we move into the future, we are proud to help families like yours with innovative products.",
+    "10":"shop "
+},
+"contact":{
+    "0":"Home",
+    "1":"Contacts",
+    "2":"Have a Question?",
+    "3":"Or just wanna say Hi. We’d love to get to know you. Tell us a little about yourself and how we can help. Get answers to all your questions about our online service here Monday to Friday from 9:30 to 17:30 (EET / GM+2)",
+    "4":"Send Us a Message",
+    "5":"YOUR NAME",
+    "6":"E-MAIL ADDRESS",
+    "7":"PHONE",
+    "8":"STREET ADDRESS",
+    "9":"MESSAGE TEXT",
+    "10":"SEND MESSAGE",
+    "11":"Wholesale Dealer Inquiries",
+    "12":"If you’re interested in wholesale orders or dealership opportunities and offers, contact us here",
+    "13":"Brand Ambassador Program",
+    "14":"Are you a “Mommy Blogger or social influencer?” Do you love stylish kids clothes as we do? We are looking for bloggers or trendy moms that would love to share their style with our matching models. Please, contact us here for more information",
+    "15":"Contact us"
+},
+"shop":{
+        "0":"Home",
+        "1":"Shop",
+        "2":"BabyStreet Shop",
+        "3":"We’ve picked few pieces we’re pretty sure you’ll ❤. Check back often and enjoy.",
+        "4":"Product Categories",
+        "5":"Boys Clothing",
+        "6":"Jeans",
+        "7":"Sweaters",
+        "8":"Tops & Shirts",
+        "9":"Rompers & Jumpsuits",
+         "10":"Girls Clothing",
+         "11":" Blouses",
+         "12":"Dresses & Skirts",
+         "13":"Leggings",
+         "14":"Shoes & Accessories",
+         "15":"Toys & Games",
+         "16":"Girls",
+         "17":"clothing",
+         "18":"Boys",
+         "19":"Shoes",
+         "20":"& Accessories",
+         "21":"Toys",
+        "22":"& Games",
+        "23":"T-shirts"  },
+    "cart":{
+        "0":"Photo",
+        "1":"Title",
+        "2":"Price",
+        "3":"Quantity",
+        "4":"Remove",
+        "5":"delete",
+        "6":"Total Price"
+    },
+    "blog":{
+        "0":"BabyStreet Blog",
+        "1":"We’ve picked few topics we’re pretty sure you’ll 💗 to read about. Check back often and enjoy."
+    }
+}

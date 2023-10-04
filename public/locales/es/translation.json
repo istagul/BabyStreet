@@ -1,0 +1,136 @@
+{
+    "header":{
+        "0":"Ropa de niñas",
+        "1":"Ropa de niños",
+        "2":"Juguetes y accesorios",
+        "3":"Atención al cliente: shop@baby.street"
+       },
+    "nav":{
+        "0":"Hogar",
+        "1":"Comercio",
+        "2":"Blog",
+        "3":"Paginas",
+        "4":"Sobre nosotras",
+        "5":"contacto"
+    },
+    "home1":{
+        "0":"Brilla brillante",
+        "1":"Como una superestrella",
+        "2":"Chicas",
+        "3":"Niños"
+    },
+    "home2":{
+        "0":"Ropa de niñas",
+        "1":"Calidad increíble",
+        "2":"Ropa de niñas",
+        "3":"Las mejores marcas del mundo",
+        "4":"Juguetes y Juegos",
+        "5":"Para todas las edades"
+    },
+    "home3":{
+        "0":"💗 Esto",
+        "1":"Hemos elegido algunas piezas que estamos bastante seguros de que te encantarán. Vuelve a menudo y disfruta."
+    },
+    "home4":{
+        "0":"DE VUELTA A LA ESCUELA",
+        "1":"Colección Niñas",
+        "2":"Celebramos la infancia apoyando a bebés, niños y familias con diseños bien pensados, materiales y construcción de calidad y opciones de compra convenientes.",
+        "3":"Comercio"
+    },
+    "home5":{
+        "0":"desde el blog",
+        "1":"Celebramos la infancia apoyando a bebés, niños y familias con diseños bien pensados y materiales de calidad.",
+        "2":"Suscríbete a nuestro boletín",
+        "3":"Sea el primero en enterarse de nuevos productos, ventas y promociones.",
+        "4":"Suscribir"
+    },
+    "footer": {
+        "0":"Información",
+        "1":"Sobre nosotras",
+        "2":"FAQ",
+        "3":"Tienda de BabyStreet",
+        "4":"Blog",
+        "5":" Extras",
+        "6":"Mi cuenta ",
+        "7":"Lista de deseos",
+        "8":"Rastreo de orden",
+        "9":"Términos y condiciones",
+        "10":"política de privacidad",
+        "11":"¿Tengo una pregunta?",
+        "12":"164 7th Avenue, Seattle, WA 9801",
+        "13":"Tema de Babystreet por theAlThemist | © 2019 ¡Todos los derechos reservados!"
+    
+    },
+    "about":{
+        "0":"Hogar",
+         "1":"Sobre nosotras",
+         "2":"Historia y misión",
+         "3":"Creemos que la infancia es una celebración, y los estampados coloridos y los simpáticos personajes que diseñamos están inspirados en la alegría y el amor que los niños traen a nuestras vidas. Celebramos la infancia apoyando a los bebés, los niños y las familias con diseños bien pensados. materiales y construcción de calidad, y convenientes opciones de compra.",
+         "4":"Modelos adorables",
+         "5":" Desde nuestros estudios internos de diseño y creatividad hasta nuestros descansos mensuales con cupcakes de cumpleaños. Nos encanta crear momentos",
+         "6":"Productos impresionantes",
+         "7":"Mejor calidad",
+         "8":"Nuestra Filosofía",
+         "9":"Creemos que la infancia es una celebración, y los estampados coloridos y los simpáticos personajes que diseñamos están inspirados en la alegría y el amor que los niños traen a nuestras vidas. Celebramos la infancia apoyando a los niños y las familias con diseños bien pensados, materiales de calidad y convenientes opciones de compra. Continuamos con este legado en cada pequeño detalle para hacer que vestirse sea más fácil para mamá y la vida más cómoda para los bebés, y a medida que avanzamos hacia el futuro, nos enorgullece ayudar a familias como la suya con productos innovadores",
+         "10":"comercio"
+    },
+    "contact":{
+        "0":"Hogar",
+     "1":"Contactos",
+     "2":"¿Tienes alguna pregunta?",
+     "3":"O simplemente quiero saludarte. Nos encantaría conocerte. Cuéntanos un poco sobre ti y cómo podemos ayudarte. Obtén respuestas a todas tus preguntas sobre nuestro servicio en línea aquí de lunes a viernes de 9: 30 a 17:30 (EET/GM+2)",
+     "4":"Envíanos un mensaje",
+     "5":"TU NOMBRE",
+     "6":"DIRECCIÓN DE CORREO ELECTRÓNICO",
+     "7":"TELÉFONO",
+     "8":"DIRECCIÓN DE LA CALLE",
+     "9":"TEXTO DEL MENSAJE",
+     "10":"ENVIAR MENSAJE",
+     "11":"Consultas sobre distribuidores mayoristas",
+     "12":"Si está interesado en pedidos al por mayor o en oportunidades y ofertas de distribución, contáctenos aquí",
+     "13":"Programa de embajadores de la marca",
+     "14":"¿Eres una Mami Blogger o una persona influyente en las redes sociales? ¿Te encanta la ropa de niños con estilo como a nosotros? Estamos buscando blogueras o mamás modernas a las que les encantaría compartir su estilo con nuestros modelos a juego. Por favor, contáctanos aquí para más información",
+     "15":"Contacta con nosotras"
+    },
+    "shop":{
+        "0":"Hogar",
+         "1":"Tienda",
+         "2":"Tienda de BabyStreet",
+         "3":"Hemos elegido algunas piezas que estamos bastante seguros de que ❤. Vuelve a menudo y disfruta.",
+         "4":"Productos",
+         "5":"Ropa de niños",
+         "6":"Jeans",
+         "7":"Suéteres",
+         "8":"Tops y camisas",
+         "9":"Peleles y monos",
+          "10":"Ropa de niña",
+          "11":"Blusas",
+          "12":"Vestidos y faldas",
+          "13":"Polainas",
+          "14":"Zapatos y accesorios",
+          "15":"Juguetes y juegos",
+          "16":"Chicas",
+          "17":"ropa",
+          "18":"Chicos",
+          "19":"Zapatos",
+          "20":"& Accesorios",
+          "21":"Juguetes",
+         "22":"& Juegos",
+         "23":"camisetas"
+    },
+    "cart":{
+          
+        "0":"Foto",
+        "1":"Título",
+        "2":"Precio",
+        "3":"Cantidad",
+        "4":"Eliminar",
+        "5":"borrar",
+        "6":"Precio total"
+    },
+    "blog":{
+        "0":"Blog de BabyStreet",
+        "1":"Hemos elegido algunos temas sobre los que estamos bastante seguros de que 💗 leerás. Vuelve a menudo y disfruta"
+    }
+    }
+    

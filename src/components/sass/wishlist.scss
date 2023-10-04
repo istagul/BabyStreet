@@ -1,0 +1,99 @@
+
+    .box{
+        z-index: 0;
+        width: 200px;
+        height: 241px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-around;
+        // border: 1px solid #bdbaba;
+        margin-left: 30px;
+        .cartimg{
+            width: 190px;
+            height: 190px;
+            border-radius: 5px;
+            background-position: top center;
+            background-size: cover;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            transform: translateY(-7px);
+            .icons{
+                width: 150px;
+                height: 300px;
+                opacity: 0;
+                display: flex;
+                justify-content: center;
+            align-items:flex-end;
+            justify-content: space-between;
+            transform: translateY(50px);
+            transition: 1s;
+           .icon{
+            width: 35px;
+            height: 35px;
+            transition: 1s; 
+            border-radius: 50%;
+            background-color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border:1px solid #7d8080;
+            i{
+                color: rgb(44, 44, 44);
+            }
+            
+           }
+           .icon:hover i{
+             color: #ff8087;
+           }
+            
+            
+            }
+        }
+        .cartimg:hover .icons{
+            opacity: 1;
+            transform: translateY(-50px);
+        }
+        h1{
+            
+            font-size: 16px;
+        }
+        h2{
+          
+            font-size: 14px;
+        }
+    }
+
+    .icon2{
+        width: 35px;
+        height: 35px;
+        transition: 1s; 
+        border-radius: 50%;
+        background-color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border:1px solid #7d8080;
+       
+       
+       }
+       .icon2:hover i{
+        color: #ff8087;
+      }
+
+      .details{
+        .icon2{
+            border: none;
+        }
+      }
+      @media(max-width:587px){
+        .shop-products{
+        .box{
+            transform: translateX(60px);
+        }}
+    
+}
